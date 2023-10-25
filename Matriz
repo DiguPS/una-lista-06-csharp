@@ -1,0 +1,11 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int[,] matriz = new int[3, 3]; // Cria uma matriz 3x3      
+        matriz[0, 0] = 1; // Atribui o valor 1 ao elemento na primeira linha e primeira coluna
+
+    }
+}
