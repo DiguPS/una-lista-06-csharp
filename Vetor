@@ -1,0 +1,11 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int[] vetor = new int[5]; // Cria um vetor com 5 elementos
+        vetor[0] = 1; // Atribui o valor 1 ao primeiro elemento do vetor
+
+  }
+}
